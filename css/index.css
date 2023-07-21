@@ -1,0 +1,11 @@
+h1 {
+    color: #4CAF50;
+}
+
+.banner-custom {
+    width: 300px;
+    margin: auto;
+    & img {
+        width: 100%;
+    }
+}
