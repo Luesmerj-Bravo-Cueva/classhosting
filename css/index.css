@@ -5,7 +5,7 @@ h1 {
 .banner-custom {
     width: 300px;
     margin: auto;
-    & img {
-        width: 100%;
-    }
+}
+.banner-custom img {
+    width: 100%;
 }
